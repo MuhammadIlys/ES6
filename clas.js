@@ -22,6 +22,9 @@ class B extends A{
 
 obj = new A("Ali");
 obj.showname();
+console.log('.....................')
+
 
 objb = new B('ali','Khan')
 objb.shownameb();
+console.log('.......... CLASSES END ...........')

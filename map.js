@@ -5,6 +5,9 @@ const lis = arr.map((item)=>{
 
 const [,,,num3,,] = arr;
 
-
+console.log('.....................')
 console.log(lis);
 console.log("Number 3 is : " + num3);
+
+console.log('.......... MAP FUNCTION END ...........')
+
